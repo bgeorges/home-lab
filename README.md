@@ -23,6 +23,14 @@ Note: currently reviewing Wireguard vs ZeroTier (self hosted)
 - Virtual machines (VM) in Proxmox
 	- Self Hosted Cloud VM: Apache, MySQL, PHP, Nextcloud, Let's Encrypt Certbot
 	- Self hosted ZeroTier / or other alternatives.
+- Containers 
+	- Dashy
+	- Metabase
+	- Guacamole
+	- MeshCentral
+	- Pi-Hole
+	- Vaultwarden
+	- Cokpit
 
 ### Installation
 #### Network
