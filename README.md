@@ -24,7 +24,7 @@ Note: currently reviewing Wireguard vs ZeroTier (self hosted)
 - Proxmox VE 8.1
 - Virtual machines (VM) in Proxmox
 	- Self Hosted Cloud VM: Apache, MySQL, PHP, Nextcloud, Let's Encrypt Certbot
-	- Self hosted ZeroTier / or other alternatives. For deployed Tailscale
+	- Self hosted ZeroTier / or other alternatives. For now Tailscale is being tested. so far so good. 
 - Containers 
 	- Dashy
 	- Metabase
