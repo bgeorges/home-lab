@@ -18,7 +18,7 @@ VLANs on the Zyxel XS1930-10 switch:
 	- VLAN 30: Work workstation
 	- VLAN 40: Proxmox host, Nextcloud VM
 
-Note: currently reviewing Wireguard vs ZeroTier (self hosted)
+Note: decided to use TailScale for now. Later I'll be exploring the likes of ZeroTier (self hosted)
 
 ### Software
 - Proxmox VE 8.1
